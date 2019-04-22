@@ -1,0 +1,22 @@
+{
+  "name": "shell-fs",
+  "version": "1.0.0",
+  "description": "fullstack node shell pair exercise",
+  "main": "bash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marvinody/node-shell-fs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marvinody/node-shell-fs/issues"
+  },
+  "homepage": "https://github.com/marvinody/node-shell-fs#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
